@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\bin\Debug\net6.0\IndexerAndReflection.exe
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\bin\Debug\net6.0\IndexerAndReflection.deps.json
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\bin\Debug\net6.0\IndexerAndReflection.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\bin\Debug\net6.0\IndexerAndReflection.dll
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\bin\Debug\net6.0\IndexerAndReflection.pdb
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.dll
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\refint\IndexerAndReflection.dll
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.pdb
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\IndexerAndReflection.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Indexer, Reflection\IndexerAndReflection\IndexerAndReflection\obj\Debug\net6.0\ref\IndexerAndReflection.dll
